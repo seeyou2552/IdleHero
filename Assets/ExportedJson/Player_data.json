@@ -1,0 +1,16 @@
+{
+    "gold": 0,
+    "stage": 1,
+    "characters": [
+        {
+            "characterName": "Hero",
+            "health": 40,
+            "mana": 20,
+            "pow": 2,
+            "def": 1,
+            "exp": 0,
+            "level": 1,
+            "type": 0
+        }
+    ]
+}
