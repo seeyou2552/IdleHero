@@ -7,17 +7,17 @@
             "pow": 2,
             "def": 1,
             "exp": 0,
-            "level": 1,
+            "level": 0,
             "type": 0
         },
         {
             "characterName": "Hero",
-            "health": 50,
+            "health": 20,
             "mana": 20,
             "pow": 2,
             "def": 1,
             "exp": 0,
-            "level": 1,
+            "level": 0,
             "type": 0
         }
     ]
