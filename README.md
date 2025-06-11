@@ -30,12 +30,12 @@
 
 - 메인화면에서 뽑기 -> 일반 뽑기 시 100G 를 소모하여 캐릭터를 획득할 수 있습니다.
   
-- ![화면 캡처 2025-06-11 091135](https://github.com/user-attachments/assets/ae601c96-b8b6-49eb-ac39-7634dea698d5)
+  ![화면 캡처 2025-06-11 091135](https://github.com/user-attachments/assets/ae601c96-b8b6-49eb-ac39-7634dea698d5)
   
 
 - 획득한 캐릭터는 메인 화면 인벤토리에서 확인이 가능합니다.
 
-- ![화면 캡처 2025-06-11 091204](https://github.com/user-attachments/assets/83b1b087-08fe-4cff-92bd-391bf8b2c77c)
+  ![화면 캡처 2025-06-11 091204](https://github.com/user-attachments/assets/83b1b087-08fe-4cff-92bd-391bf8b2c77c)
 
 ---
 
@@ -43,6 +43,6 @@
 
 - 메인화면에서 전투 -> Stage 선택 시 해당 Stage에 맞는 난이도에 적이 등장하여 자동으로 전투를 시작합니다.
 
-- ![화면 캡처 2025-06-11 091242](https://github.com/user-attachments/assets/16bcf64a-3195-4a65-8e49-b59af5e555b8)
+ ![화면 캡처 2025-06-11 091242](https://github.com/user-attachments/assets/16bcf64a-3195-4a65-8e49-b59af5e555b8)
 
 
