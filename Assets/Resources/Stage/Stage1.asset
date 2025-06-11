@@ -9,14 +9,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6fda5e51c53f8e4b93e7c39f0f31ad9, type: 3}
-  m_Name: Hero
+  m_Script: {fileID: 11500000, guid: 62440b76beb683d4ca2391649adf26dc, type: 3}
+  m_Name: Stage1
   m_EditorClassIdentifier: 
-  characterName: Hero
-  health: 20
-  mana: 20
-  pow: 2
-  def: 1
-  exp: 0
-  level: 1
-  type: 0
+  enemys:
+  - characterName: Enemy
+    health: 20
+    mana: 0
+    pow: 2
+    def: 1
+    exp: 0
+    level: 0
+    type: 0
+  gold: 100

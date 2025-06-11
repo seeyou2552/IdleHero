@@ -1,13 +1,23 @@
 {
     "characters": [
         {
+            "characterName": "Demon",
+            "health": 40,
+            "mana": 20,
+            "pow": 1,
+            "def": 1,
+            "exp": 0,
+            "level": 1,
+            "type": 0
+        },
+        {
             "characterName": "Enemy",
             "health": 10,
             "mana": 20,
             "pow": 2,
             "def": 1,
             "exp": 0,
-            "level": 0,
+            "level": 1,
             "type": 0
         },
         {
@@ -17,7 +27,27 @@
             "pow": 2,
             "def": 1,
             "exp": 0,
-            "level": 0,
+            "level": 1,
+            "type": 0
+        },
+        {
+            "characterName": "Hunter",
+            "health": 20,
+            "mana": 20,
+            "pow": 3,
+            "def": 1,
+            "exp": 0,
+            "level": 1,
+            "type": 0
+        },
+        {
+            "characterName": "Rengar",
+            "health": 20,
+            "mana": 20,
+            "pow": 3,
+            "def": 1,
+            "exp": 0,
+            "level": 1,
             "type": 0
         }
     ]

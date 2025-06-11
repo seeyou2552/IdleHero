@@ -16,11 +16,13 @@ public class CharacterStat : MonoBehaviour
 
     void Start()
     {
-        minion = GetComponent<CharacterManager>();
-        if (minion.thisEnemy) character = DataManager.Instance.characters.GetCharacterByName(characterName)?.Clone();
-        else character = DataManager.Instance.GetCharacterByName(characterName);
+        // minion = GetComponent<CharacterManager>();
+        // if (minion.thisEnemy) character = DataManager.Instance.characters.GetCharacterByName(characterName)?.Clone();
+        // else character = DataManager.Instance.GetCharacterByName(characterName);
+        canvas = GameObject.Find("Canvas").transform;
 
         GameObject ui = Instantiate(hpBar, canvas);
+        ui.transform.SetAsFirstSibling();
         status = ui.GetComponent<StatusBar>();
 
         status.target = this.gameObject;

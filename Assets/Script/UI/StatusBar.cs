@@ -26,6 +26,7 @@ public class StatusBar : MonoBehaviour
     {
         float ratio = (float)minion.character.health / maxHP;
         hpBar.fillAmount = ratio;
-        hpText.text = minion.character.health.ToString();
+        if (minion.character.health < 0) hpText.text = 0.ToString();
+        else hpText.text = minion.character.health.ToString();
     }
 }
